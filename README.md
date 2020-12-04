@@ -1,6 +1,6 @@
 # Substrate Node Template
 
-A new FRAME-based Substrate node, ready for hacking :rocket:
+A GuildSkrypt FRAME-based Substrate node, ready for launching a Guild for inclusion into the decentralized network of Guilds. :rocket:
 
 ## Getting Started
 
